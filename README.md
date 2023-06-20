@@ -7,7 +7,7 @@ DOI:
 July 2023.
 ```
 
-![CLOUDELM](./images/CLOUDELM.png)
+![CLOUDELM](./images/CLOUDELM.jpg)
 
 
 ### Compile Java project
