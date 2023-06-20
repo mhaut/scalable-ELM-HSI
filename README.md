@@ -11,15 +11,21 @@ July 2023.
 
 
 ### Compile Java project
+
+## Local version
 ```
-cd ./distributed_elm_version
-mvn clean compile assembly:single
-mvn clean compile package
-# local version
 cd ./local_elm_version
 mvn clean compile assembly:single
 mvn clean compile package
 ```
+
+## Distributed version
+```
+cd ./distributed_elm_version
+mvn clean compile assembly:single
+mvn clean compile package
+```
+
 
 ### Run code
 
