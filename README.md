@@ -1,9 +1,9 @@
 # Cloud Implementation of Extreme Learning Machine for Hyperspectral Image Classification
-The Code for "Cloud Implementation of Extreme Learning Machine for Hyperspectral Image Classification". []
+The Code for "Cloud Implementation of Extreme Learning Machine for Hyperspectral Image Classification". [https://ieeexplore.ieee.org/document/10189386]
 ```
 J. M. Haut, S. Moreno-Álvarez, E. Moreno-Avila, Victor A. Ayma, R. Pastor-Vargas and M. E. Paoletti.
 Cloud Implementation of Extreme Learning Machine for Hyperspectral Image Classification
-DOI:
+DOI: 10.1109/LGRS.2023.3295742,
 July 2023.
 ```
 
